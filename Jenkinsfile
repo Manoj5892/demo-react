@@ -5,7 +5,7 @@ pipeline{
         stage('clone'){
             steps{
                 // Clone the repository
-                git 'https://github.com/VootlaSaiCharan/demo-react.git'
+                git 'https://github.com/Manoj5892/demo-react.git'
             }
         }
 
